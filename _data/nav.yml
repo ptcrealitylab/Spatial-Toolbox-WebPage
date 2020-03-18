@@ -1,0 +1,34 @@
+# - title: About
+# url: /about
+- title: Forum
+  url: https://forum.spatialtoolbox.vuforia.com/
+  absolute: true
+- title: Start
+  url: /docs/startSystem/startSystem
+- title: Docs
+  url: /docs.html
+  sublinks:
+    - title: Start
+      url: /docs/startSystem/startSystem
+    - title: separator
+    - title: Tools API
+      url: /docs/makeTools/makeTools
+    - title: Create a Tool
+      url: /docs/makeTools/toolTutorial
+    - title: separator
+    - title: Use the Toolbox
+      url: /docs/use/toolbox
+    - title: Use Logic Blocks
+      url: /docs/use/blocks
+    - title: Use Tools
+      url: /docs/use/tools
+    - title: separator
+    - title: Understand the Architecture
+      url: /docs/understandSystem/systemArchitecture
+    - title: Understand the Data Model
+      url: /docs/understandSystem/dataModel
+    - title: Understand Local/Global Tools
+      url: /docs/understandSystem/localVsGlobalTools
+    - title: separator
+    - title: Adding Configurable Interface Settings
+      url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
