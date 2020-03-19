@@ -1,3 +1,3 @@
 [submodule "docs"]
 	path = docs
-	url = git@github.com:ptcrealitylab/vuforia-spatial-documentation
+	url = https://github.com/ptcrealitylab/vuforia-spatial-documentation
