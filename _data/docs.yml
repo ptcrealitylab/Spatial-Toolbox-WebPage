@@ -1,0 +1,33 @@
+- title: Start
+  url: /docs/startSystem/startSystem
+- title: Make Tools
+  url: /docs/makeTools/toolTutorial
+  sublinks:
+    - title: Tool Tutorial
+      url: /docs/makeTools/toolTutorial
+    - title: Tools API
+      url: /docs/makeTools/makeTools
+- title: Use the Toolbox
+  url: /docs/use/toolbox
+  sublinks:
+    - title: Use the Toolbox
+      url: /docs/use/toolbox
+    - title: Use Logic Blocks
+      url: /docs/use/blocks
+    - title: Use Tools
+      url: /docs/use/tools
+- title: Understand the System
+  url: /docs/understandSystem/systemArchitecture
+  sublinks:
+    - title: Understand the System
+      url: /docs/understandSystem/systemArchitecture
+    - title: Understand the Data Model
+      url: /docs/understandSystem/dataModel
+    - title: Understand Local/Global Tools
+      url: /docs/understandSystem/localVsGlobalTools
+- title: Make Hardware Interfaces
+  url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
+  sublinks:
+    - title: Adding Configurable Interface Settings
+      url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
+

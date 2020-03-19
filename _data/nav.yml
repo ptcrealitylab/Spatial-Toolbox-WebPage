@@ -1,5 +1,7 @@
 # - title: About
 # url: /about
+- title: Blog
+  url: /
 - title: Forum
   url: https://forum.spatialtoolbox.vuforia.com/
   absolute: true
@@ -8,27 +10,37 @@
 - title: Docs
   url: /docs.html
   sublinks:
+    # copy-paste from docs.yml
     - title: Start
       url: /docs/startSystem/startSystem
-    - title: separator
-    - title: Tools API
-      url: /docs/makeTools/makeTools
-    - title: Create a Tool
+    - title: Make Tools
       url: /docs/makeTools/toolTutorial
-    - title: separator
+      sublinks:
+        - title: Tool Tutorial
+          url: /docs/makeTools/toolTutorial
+        - title: Tools API
+          url: /docs/makeTools/makeTools
     - title: Use the Toolbox
       url: /docs/use/toolbox
-    - title: Use Logic Blocks
-      url: /docs/use/blocks
-    - title: Use Tools
-      url: /docs/use/tools
-    - title: separator
-    - title: Understand the Architecture
+      sublinks:
+        - title: Use the Toolbox
+          url: /docs/use/toolbox
+        - title: Use Logic Blocks
+          url: /docs/use/blocks
+        - title: Use Tools
+          url: /docs/use/tools
+    - title: Understand the System
       url: /docs/understandSystem/systemArchitecture
-    - title: Understand the Data Model
-      url: /docs/understandSystem/dataModel
-    - title: Understand Local/Global Tools
-      url: /docs/understandSystem/localVsGlobalTools
-    - title: separator
-    - title: Adding Configurable Interface Settings
+      sublinks:
+        - title: Understand the System
+          url: /docs/understandSystem/systemArchitecture
+        - title: Understand the Data Model
+          url: /docs/understandSystem/dataModel
+        - title: Understand Local/Global Tools
+          url: /docs/understandSystem/localVsGlobalTools
+    - title: Make Hardware Interfaces
       url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
+      sublinks:
+        - title: Adding Configurable Interface Settings
+          url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
+

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <div class="column">
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    </article>
+  </div>
+  <div class="column is-narrow">
+    {%- include docs-sidebar.html -%}
+  </div>
+</div>
