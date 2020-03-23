@@ -10,7 +10,7 @@
       <ul class="menu-list">
         {% for sublink in link.sublinks %}
           {% assign class = nil %}
-          {% if page.url contains sublink.url %}
+          {% if page.url == sublink.url %}
               {% assign class = 'is-active' %}
           {% endif %}
           <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
