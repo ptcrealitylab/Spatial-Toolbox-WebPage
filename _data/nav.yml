@@ -57,9 +57,9 @@
         - title: API Reference
           url: /docs/develop/hardware-interfaces/api-reference
     - title: Spatial Nodes
-      url: /docs/spatial-nodes
+      url: /docs/develop/spatial-nodes
     - title: Spatial Blocks
-      url: /docs/spatial-blocks
+      url: /docs/develop/spatial-blocks
 - title: Tutorials
   url: /docs/tutorials
   sublinks:
