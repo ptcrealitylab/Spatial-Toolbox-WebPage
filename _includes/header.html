@@ -4,10 +4,10 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="{{ "/" | relative_url }}">
-          {{ site.title | escape }}
+          <img alt="{{ site.title | escape }}" src="{{ "/resources/vuforia-spatialtoolbox-darkBG.svg" | relative_url }}" width="220" height="40"/>
         </a>
 
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
