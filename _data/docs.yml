@@ -1,33 +1,71 @@
-- title: Start
-  url: /docs/startSystem/startSystem
-- title: Make Tools
-  url: /docs/makeTools/toolTutorial
+- title: Download
+  url: /docs/download
   sublinks:
-    - title: Tool Tutorial
-      url: /docs/makeTools/toolTutorial
-    - title: Tools API
-      url: /docs/makeTools/makeTools
-- title: Use the Toolbox
-  url: /docs/use/toolbox
+    - title: Change Log
+      url: /docs/download/change-log
+- title: Use
+  url: /docs/use
   sublinks:
-    - title: Use the Toolbox
-      url: /docs/use/toolbox
-    - title: Use Logic Blocks
-      url: /docs/use/blocks
-    - title: Use Tools
-      url: /docs/use/tools
-- title: Understand the System
-  url: /docs/understandSystem/systemArchitecture
+    - title: Introduction
+      url: /docs/use
+    - title: Using the App
+      url: /docs/use/using-the-app
+    - title: Spatial Tools
+      url: /docs/use/spatial-tools
+    - title: Spatial Programming
+      url: /docs/use/spatial-programming
+      sublinks:
+        - title: Logic Blocks
+          url: /docs/use/logic-blocks
+        - title: Example Programs
+          url: /docs/use/example-programs
+    - title: Connect the Physical World
+      url: /docs/use/connect-to-the-physical-world/startSystem
+      sublinks:
+        - title: Web Interface Manager
+          url: /docs/use/connect-to-the-physical-world/web-interface-manager
+        - title: Install on Mac
+          url: /docs/use/connect-to-the-physical-world/install-on-mac
+        - title: Install on Windows
+          url: /docs/use/connect-to-the-physical-world/install-on-windows
+- title: Develop
+  url: /docs/develop
   sublinks:
-    - title: Understand the System
-      url: /docs/understandSystem/systemArchitecture
-    - title: Understand the Data Model
-      url: /docs/understandSystem/dataModel
-    - title: Understand Local/Global Tools
-      url: /docs/understandSystem/localVsGlobalTools
-- title: Make Hardware Interfaces
-  url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
+    - title: Introduction
+      url: /docs/develop
+    - title: Add-ons
+      url: /docs/develop/add-ons
+    - title: Spatial Tools
+      url: /docs/develop/spatial-tools
+      sublinks:
+        - title: Tutorial
+          url: /docs/develop/spatial-tools/tutorial
+        - title: API Reference
+          url: /docs/develop/spatial-tools/api-reference
+    - title: Hardware Interfaces
+      url: /docs/develop/hardware-interfaces
+      sublinks:
+        - title: Tutorial
+          url: /docs/develop/hardware-interfaces/tutorial
+        - title: API Reference
+          url: /docs/develop/hardware-interfaces/api-reference
+    - title: Spatial Nodes
+      url: /docs/spatial-nodes
+    - title: Spatial Blocks
+      url: /docs/spatial-blocks
+- title: Tutorials
+  url: /docs/tutorials
   sublinks:
-    - title: Adding Configurable Interface Settings
-      url: /docs/hardwareInterfaces/configurableSettingsForInterfaces
-
+    - title: Creating a Simple Tool
+      url: /docs/tutorials/creating-a-simple-tool
+    - title: Adding Settings to a Hardware Interface
+      url: /docs/tutorials/adding-settings-to-hardware-interface
+- title: Dive Deeper
+  url: /docs/dive-deeper
+  sublinks:
+    - title: System Architecture
+      url: /docs/dive-deeper/system-architecture
+    - title: Data Model
+      url: /docs/dive-deeper/data-model
+    - title: Local vs Global Tools
+      url: /docs/dive-deeper/local-vs-global-tools
