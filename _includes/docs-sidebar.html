@@ -16,6 +16,18 @@
           <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
             {{ sublink.title }}
           </a></li>
+
+          {% if sublink.sublinks %}
+            {% for subsublink in sublink.sublinks %}
+              {% assign class = nil %}
+              {% if page.url == subsublink.url %}
+                  {% assign class = 'is-active' %}
+              {% endif %}
+          <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ subsublink.url }}">
+            {{ subsublink.title }}
+          </a></li>
+            {% endfor %}
+          {% endif %}
         {% endfor %}
       </ul>
     {% endif %}
