@@ -1,4 +1,4 @@
-<aside class="menu" style="width: 20rem">
+<aside class="menu">
   {% assign links = site.data.docs %}
   {% for link in links %}
     <p class="menu-label">
@@ -13,21 +13,26 @@
           {% if page.url == sublink.url %}
               {% assign class = 'is-active' %}
           {% endif %}
-          <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
-            {{ sublink.title }}
-          </a></li>
+          <li>
+            <a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
+              {{ sublink.title }}
+            </a>
 
-          {% if sublink.sublinks %}
-            {% for subsublink in sublink.sublinks %}
-              {% assign class = nil %}
-              {% if page.url == subsublink.url %}
-                  {% assign class = 'is-active' %}
-              {% endif %}
-          <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ subsublink.url }}">
-            {{ subsublink.title }}
-          </a></li>
-            {% endfor %}
+            {% if sublink.sublinks %}
+              <ul>
+              {% for subsublink in sublink.sublinks %}
+                {% assign class = nil %}
+                {% if page.url == subsublink.url %}
+                    {% assign class = 'is-active' %}
+                {% endif %}
+                <li><a class="{{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ subsublink.url }}">
+                  {{ subsublink.title }}
+                </a></li>
+              {% endfor %}
+              </ul>
           {% endif %}
+
+          </li>
         {% endfor %}
       </ul>
     {% endif %}
