@@ -11,6 +11,8 @@ $navbar-dropdown-item-hover-background-color: #292929;
 $navbar-item-hover-color: white;
 $navbar-item-hover-background-color: #292929;
 $navbar-dropdown-arrow: white;
+$navbar-height: 4.2rem;
+
 $footer-padding: 3rem 4rem 0.5rem;
 
 $menu-item-active-background-color: #e0e0e0;
@@ -81,8 +83,4 @@ $menu-item-active-color: black;
 
 .menu a, .menu a:visited {
   color: black;
-}
-
-.site-header .navbar {
-  height: 70px;
 }
