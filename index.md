@@ -57,19 +57,25 @@ permalink: /
   </div>
   <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
+  <figure class="image is-4by3">
     <img src="resources/what1.jpg" alt="Image of Reality Server"/>
+    </figure>
     <div class="column is-info">
         1. Generate 2D and 3D AR content around you 
     </div>
   </div>
   <div class="column is-one-third">
+  <figure class="image is-4by3">
     <img src="resources/what3.jpg" alt="Image of Reality Server"/>
+    </figure>
     <div class="column">
         2. Attach Spatial Tools and AR  Content to any physical object
     </div>
   </div>
   <div class="column is-one-third">
+  <figure class="image is-4by3">
     <img src="resources/what2.jpg" alt="Image of Reality Server"/>
+    </figure>
     <div class="column">
         3. Program hardware system using AR interfaces
     </div>
@@ -104,22 +110,17 @@ permalink: /
 
 <div class="columns is-vcentered is-centered">
  <div class="column is-full">
-    <h3>Access our Tutorials</h3>
+    <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
-</div>
-<div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
-  
-<div class="card">
+  <div class="card">
     <div class="card-image">
         <figure class="image is-4by3">
             <img src="resources/feeder.jpg" alt="Placeholder image">
         </figure>
     </div>
     <div class="card-content">
-        <div class="content">
            Feeder Machine
-        </div>
     </div>
 </div>
   </div>
