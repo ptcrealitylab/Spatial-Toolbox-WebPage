@@ -8,7 +8,7 @@ permalink: /
     <h3>A Toolbox for Spatial Computing Experiments</h3>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
-  <div class="column is-one-quarter">
+  <div class="column is-one-third">
     <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
          Download
        </a>
