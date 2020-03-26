@@ -37,10 +37,13 @@ permalink: /
   <div class="column is-full">
   &nbsp;
     </div>
+</div>
+
+
+<div class="columns is-vcentered is-centered is-0  is-multiline ">
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
-  </div>
-  <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  </div><div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
               <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
               <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
               </iframe>
@@ -48,6 +51,9 @@ permalink: /
         <div class="column is-full">
          &nbsp;
            </div>
+  </div>
+  
+  <div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
@@ -75,9 +81,12 @@ permalink: /
         3. Program hardware system using AR interfaces
     </div>
   </div>
- <div class="column is-full">
-  &nbsp;
-    </div>
+   <div class="column is-full">
+    &nbsp;
+      </div>
+</div>
+
+<div class="columns is-vcentered is-centered  is-multiline ">
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
   </div>
@@ -98,9 +107,13 @@ permalink: /
     <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware">
     Make hardware interfaces</a>
   </div>
- <div class="column is-full">
-  &nbsp;
-    </div>
+   <div class="column is-full">
+    &nbsp;
+      </div>
+</div>
+
+
+<div class="columns is-vcentered is-centered  is-multiline">
  <div class="column is-full">
     <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
