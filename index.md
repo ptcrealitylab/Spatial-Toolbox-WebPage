@@ -47,6 +47,7 @@ permalink: /
             </iframe>
         </div>
     </div>
+  </div>
 </div>
 
 <div class="columns is-vcentered is-centered">
@@ -92,16 +93,24 @@ permalink: /
         1. Generate 2D and 3D AR content around you 
     </div>
   </div>
-  <div class="column is-hald">
+  <div class="column is-half">
     <img src="resources/what3.jpg" alt="Image of Reality Server"/>
     <div class="column">
         2. Attach Spatial Tools and AR  Content to any physical object
     </div>
   </div>
-  <div class="column is-one-third">
-    <img src="resources/what2.jpg" alt="Image of Reality Server"/>
+  
+  
+  <div class="column is-half">
+    <img src="resources/what1.jpg" alt="Image of Reality Server"/>
     <div class="column">
-        3. Program hardware system using AR interfaces
+        1. Generate 2D and 3D AR content around you 
+    </div>
+  </div>
+  <div class="column is-half">
+    <img src="resources/what3.jpg" alt="Image of Reality Server"/>
+    <div class="column">
+        2. Attach Spatial Tools and AR  Content to any physical object
     </div>
   </div>
 </div>
