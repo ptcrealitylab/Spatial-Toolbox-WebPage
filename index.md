@@ -14,15 +14,15 @@ permalink: /
          The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
        </div>
        <div class="column is-one-third">
-         <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
-              Download
-            </a> &nbsp; &nbsp; <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
-           Get Started
-         </a>
+         <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Download</button>  
+         <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Get Started</button>
        </div>
      </div>
        </div>
   </section>
+  
+  
+  onclick="location.href='pageurl.html';"
 
 <section class="hero">
   <div class="hero-body">
