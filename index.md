@@ -10,10 +10,11 @@ permalink: /
       <div class="column">
     The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
   </div>
-  <div class="column is-one-third">
+  <div class="column is-one-fifth">
     <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
          Download
-       </a>  &nbsp;
+       </a></div>
+        <div class="column is-one-fifth">
     <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
       Get Started
     </a>
@@ -154,9 +155,7 @@ permalink: /
         <div class="card-image">
           <figure class="image is-5by3">
               <img src="resources/loto.jpg" alt="Placeholder image">
-               Lock out Tag out
-          </figure>
-         
+          </figure>      
       </div>
       <div class="card-content">
           Lock out Tag out
