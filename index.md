@@ -21,6 +21,7 @@ permalink: /
     Fourth column
   </div>
 </div>
+test
 
 
 <div class="columns is-vcentered">
