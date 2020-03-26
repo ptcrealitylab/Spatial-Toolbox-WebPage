@@ -40,13 +40,15 @@ permalink: /
 <div class="columns is-vcentered is-centered is-0">
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
-    <div class="column is-full is-16by9">
-            <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
-            <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
-            </iframe>
-    </div>
   </div>
   </div>
+  
+  <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+              <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
+              <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
+              </iframe>
+       </div>
+  
   
   <div class="columns is-vcentered is-centered">
   <div class="column is-full">
@@ -101,6 +103,18 @@ permalink: /
 
 
 
+<div class="card">
+    <div class="card-image">
+        <figure class="image is-4by3">
+            <img src="resources/feeder.jpg" alt="Placeholder image">
+        </figure>
+    </div>
+    <div class="card-content">
+        <div class="content">
+           Feeder Machine
+        </div>
+    </div>
+</div>
 
 ### Made with Vuforia Spatial Toolbox
 
