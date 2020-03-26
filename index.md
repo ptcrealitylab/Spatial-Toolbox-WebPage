@@ -4,7 +4,7 @@ permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
 
-  <section class="section">
+<section class="section">
     <div class="container">
       <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
     </div>
@@ -18,62 +18,30 @@ permalink: /
          <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Get Started</button>
        </div>
      </div>
+       <div class="columns is-vcentered is-centered  is-multiline ">
+         <div class="column is-one-third">
+           <img src="resources/distance.gif" alt=""/>
+           <div class="column is-full">
+               Spatial Tools
+           </div>
+         </div>
+         <div class="column is-one-third">
+           <img src="resources/vst.gif" alt=""/>
+           <div class="column is-full">
+               Spatial Programming
+           </div>
+         </div>
+         <div class="column is-one-third">
+           <img src="resources/mir.gif" alt=""/>
+           <div class="column is-full">
+               Spatial Robotic UI
+           </div>
+         </div>
        </div>
+    </div>
   </section>
-  
-  
-  onclick="location.href='pageurl.html';"
+   
 
-<section class="hero">
-  <div class="hero-body">
-    <div class="container">
-      <h1 class="title">
-        Hero title
-      </h1>
-    </div>
-  </div>
-</section>
-<div class="columns is-vcentered  is-multiline ">
-  <div class="column is-full">
-    <h3>A Toolbox for Spatial Computing Experiments</h3>
-      </div>
-      <div class="column">
-    The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
-  </div>
-  <div class="column is-one-fifth">
-    <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
-         Download
-       </a></div>
-        <div class="column is-one-fifth">
-    <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
-      Get Started
-    </a>
-  </div>
-</div>
-
-<div class="columns is-vcentered is-centered  is-multiline ">
-  <div class="column is-one-third">
-    <img src="resources/distance.gif" alt=""/>
-    <div class="column is-full">
-        Spatial Tools
-    </div>
-  </div>
-  <div class="column is-one-third">
-    <img src="resources/vst.gif" alt=""/>
-    <div class="column is-full">
-        Spatial Programming
-    </div>
-  </div>
-  <div class="column is-one-third">
-    <img src="resources/mir.gif" alt=""/>
-    <div class="column is-full">
-        Spatial Robotic UI
-    </div>
-  </div>
-  <div class="column is-full">
-  &nbsp;
-    </div>
-</div>
 
 
 <div class="columns is-vcentered is-centered is-0  is-multiline ">
