@@ -36,6 +36,15 @@
                       <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
                         {{ sublink.title }}
                       </a>
+
+                      {% if sublink.sublinks %}
+                        {% for subsublink in sublink.sublinks %}
+                      <a class="navbar-item navbar-subitem" href="{{ site.url }}{{ site.baseurl }}{{ subsublink.url }}">
+                        {{ subsublink.title }}
+                      </a>
+                        {% endfor %}
+
+                      {% endif %}
                     {% endif %}
                   {% endfor %}
                 </div>

@@ -21,18 +21,20 @@
       url: /docs/use/spatial-tools
     - title: Spatial Programming
       url: /docs/use/spatial-programming
-    - title: Logic Blocks
-      url: /docs/use/spatial-programming/logic-blocks
-    - title: Example Programs
-      url: /docs/use/spatial-programming/example-programs
+      sublinks:
+        - title: Logic Blocks
+          url: /docs/use/spatial-programming/logic-blocks
+        - title: Example Programs
+          url: /docs/use/spatial-programming/example-programs
     - title: Connect the Physical World
       url: /docs/use/connect-to-the-physical-world/startSystem
-    - title: Web Interface Manager
-      url: /docs/use/connect-to-the-physical-world/web-interface-manager
-    - title: Install on Mac
-      url: /docs/use/connect-to-the-physical-world/install-on-mac
-    - title: Install on Windows
-      url: /docs/use/connect-to-the-physical-world/install-on-windows
+      sublinks:
+        - title: Web Interface Manager
+          url: /docs/use/connect-to-the-physical-world/web-interface-manager
+        - title: Install on Mac
+          url: /docs/use/connect-to-the-physical-world/install-on-mac
+        - title: Install on Windows
+          url: /docs/use/connect-to-the-physical-world/install-on-windows
 - title: Develop
   url: /docs/develop
   sublinks:
@@ -42,16 +44,18 @@
       url: /docs/develop/add-ons
     - title: Spatial Tools
       url: /docs/develop/spatial-tools
-    - title: Tutorial
-      url: /docs/develop/spatial-tools/tutorial
-    - title: API Reference
-      url: /docs/develop/spatial-tools/api-reference
+      sublinks:
+        - title: Tutorial
+          url: /docs/develop/spatial-tools/tutorial
+        - title: API Reference
+          url: /docs/develop/spatial-tools/api-reference
     - title: Hardware Interfaces
       url: /docs/develop/hardware-interfaces
-    - title: Tutorial
-      url: /docs/develop/hardware-interfaces/tutorial
-    - title: API Reference
-      url: /docs/develop/hardware-interfaces/api-reference
+      sublinks:
+        - title: Tutorial
+          url: /docs/develop/hardware-interfaces/tutorial
+        - title: API Reference
+          url: /docs/develop/hardware-interfaces/api-reference
     - title: Spatial Nodes
       url: /docs/develop/spatial-nodes
     - title: Spatial Blocks

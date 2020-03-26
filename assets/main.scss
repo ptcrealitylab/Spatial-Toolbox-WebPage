@@ -25,6 +25,14 @@ $menu-item-active-color: black;
 .navbar-item, .navbar-link {
   font-weight: bold;
 }
+
+.navbar-item.navbar-subitem {
+  border-left: 1px solid white;
+  /* margin: 0.3rem 0rem; */
+  margin-left: 1.5rem;
+  /* padding: 0.075rem 1rem; */
+}
+
 /*
 .navbar-menu {
   background-color: #494a4b;
@@ -73,7 +81,6 @@ $menu-item-active-color: black;
     padding-right: 1.5rem;
   }
 }
-
 
 .menu {
   background: #efefef;
