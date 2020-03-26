@@ -5,7 +5,7 @@ permalink: /
 
 <div class="columns is-vcentered">
   <div class="column">
-    <h4>A Toolbox for Spatial Computing Experiments</h4>
+    <h3>A Toolbox for Spatial Computing Experiments</h3>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
   <div class="column is-one-quarter">
@@ -36,21 +36,31 @@ permalink: /
   </div>
 </div>
 
-<h2>What is Vuforia Spatial Toolbox?</h2>
+<h3>What is Vuforia Spatial Toolbox?</h3>
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;"><img src = "resources/toolboxVideoPlaceholder.jpg" border = "0"></iframe></div>
 
+<h3>What do I use Vuforia Spatial Toolbox for</h3>
 
-<video style="width:100%" controls>
-  <source src="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/raw/master/resources/testVideo.mp4" type="video/mp4">
-   <a href="https://www.youtube.com/watch?v=JLP2t7yymnQ?rel=0" style="border:0"><img src = "resources/toolboxVideoPlaceholder.jpg" border = "0"></a>
-</video>
-
-### What do I use Vuforia Spatial Toolbox for?
-
-| ![Image of Reality Server](resources/what1.jpg) | ![Image of Reality Server](resources/what3.jpg) | ![Image of Reality Server](resources/what2.jpg) |
-| ------| -----------| -----------|
-| 1. Generate 2D and 3D AR content around you  | 2. Attach Spatial Tools and AR  Content to any physical object | 3. Program hardware system using AR interfaces |
-
+<div class="columns is-vcentered is-centered">
+  <div class="column">
+    <img src="resources/what1.jpg" alt="Image of Reality Server"/>
+    <div class="column">
+        1. Generate 2D and 3D AR content around you 
+    </div>
+  </div>
+  <div class="column">
+    <img src="resources/what3.jpg" alt="Image of Reality Server"/>
+    <div class="column">
+        2. Attach Spatial Tools and AR  Content to any physical object
+    </div>
+  </div>
+  <div class="column">
+    <img src="resources/what2.jpg" alt="Image of Reality Server"/>
+    <div class="column">
+        3. Program hardware system using AR interfaces
+    </div>
+  </div>
+</div>
 
 ### Access our Tutorials:
 
