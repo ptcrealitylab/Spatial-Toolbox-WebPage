@@ -41,21 +41,17 @@ permalink: /
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
   </div>
-  </div>
-  
-  <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
               <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
               <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
               </iframe>
        </div>
-  
+  </div>
   
   <div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
-  </div>
-  <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
   <figure class="image is-5by3">
     <img src="resources/what1.jpg" alt="Image of Reality Server"/>
@@ -86,8 +82,6 @@ permalink: /
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
   </div>
-</div>
-<div class="columns is-vcentered is-centered">
   <div class="column is-half">
    <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/make%20tools">
    Make Tools</a>
@@ -108,7 +102,7 @@ permalink: /
 </div>
 
 
-<div class="columns is-vcentered is-centered  is-multiline ">
+<div class="columns is-vcentered is-centered  is-multiline">
  <div class="column is-full">
     <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
@@ -120,7 +114,7 @@ permalink: /
         </figure>
     </div>
     <div class="card-content">
-           Feeder Machine
+           <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/editing-reality">Feeder Machine</a>
     </div>
 </div>
   </div>
@@ -133,7 +127,7 @@ permalink: /
     </div>
     <div class="card-content">
         <div class="content">
-           AGV path planning
+            <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/kinetic-ar">AGV path planning</a>
         </div>
     </div>
 </div>
@@ -147,16 +141,9 @@ permalink: /
       </div>
       <div class="card-content">
           <div class="content">
-            Lock out Tag out
+            <a href="https://www.ptc.com/en/about/reality-lab/portfolio/experiment/editing-ar-in-space">Lock out Tag out</a>
           </div>
       </div>
   </div>
   </div>
   </div>
-
-
-### Made with Vuforia Spatial Toolbox
-
-| ![Image of Reality Server](resources/feeder.jpg) | ![Image of Reality Server](resources/frida.jpg)| ![Image of Reality Server](resources/loto.jpg)|
-| ------| -----------| -----------|
-| [Feeder Machine](https://www.ptc.com/en/about/reality-lab/portfolio/research/editing-reality)| [AGV path planning](https://www.ptc.com/en/about/reality-lab/portfolio/research/kinetic-ar)| [Lock out Tag out](https://www.ptc.com/en/about/reality-lab/portfolio/experiment/editing-ar-in-space) |
