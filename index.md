@@ -3,7 +3,6 @@ layout: home
 permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
-
 <section class="section">
     <div class="container">
         <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
@@ -45,21 +44,19 @@ permalink: /
     </div>
 </section>
 
-
-
-<div class="columns is-vcentered is-centered is-0  is-multiline ">
-  <div class="column is-full">
-    <h3>What is Vuforia Spatial Toolbox?</h3>
-  </div><div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-              <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
-              <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
-              </iframe>
-       </div>
-        <div class="column is-full">
-         &nbsp;
+<section class="section">
+    <div class="container">
+        <h1 class="title">What is Vuforia Spatial Toolbox?</h1>
+    </div>
+    <div class="container">
+    <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+                  <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
+                  <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
+                  </iframe>
            </div>
-  </div>
-  
+</div>
+</section>
+
   <div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
