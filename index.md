@@ -85,30 +85,18 @@ permalink: /
   </div>
 
   <div class="column is-half">
-    <img src="resources/what1.jpg" alt="Image of Reality Server"/>
-    <div class="column">
-        1. Generate 2D and 3D AR content around you 
-    </div>
+   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
   </div>
   <div class="column is-half">
-    <img src="resources/what3.jpg" alt="Image of Reality Server"/>
-    <div class="column">
-        2. Attach Spatial Tools and AR  Content to any physical object
-    </div>
+   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
   </div>
   
   
   <div class="column is-half">
-    <img src="resources/what1.jpg" alt="Image of Reality Server"/>
-    <div class="column">
-        1. Generate 2D and 3D AR content around you 
-    </div>
+   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
   </div>
   <div class="column is-half">
-    <img src="resources/what3.jpg" alt="Image of Reality Server"/>
-    <div class="column">
-        2. Attach Spatial Tools and AR  Content to any physical object
-    </div>
+    <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
   </div>
 </div>
 
