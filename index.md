@@ -102,7 +102,14 @@ permalink: /
 </div>
 
 
-
+<div class="columns is-vcentered is-centered">
+ <div class="column is-full">
+    <h3>Access our Tutorials</h3>
+  </div>
+</div>
+<div class="columns is-vcentered is-centered">
+  <div class="column is-one-third">
+  
 <div class="card">
     <div class="card-image">
         <figure class="image is-4by3">
@@ -115,6 +122,37 @@ permalink: /
         </div>
     </div>
 </div>
+  </div>
+  <div class="column is-one-third">
+<div class="card">
+    <div class="card-image">
+        <figure class="image is-4by3">
+            <img src="resources/feeder.jpg" alt="Placeholder image">
+        </figure>
+    </div>
+    <div class="card-content">
+        <div class="content">
+           Feeder Machine
+        </div>
+    </div>
+</div>
+  </div>
+    <div class="column is-one-third">
+  <div class="card">
+      <div class="card-image">
+          <figure class="image is-4by3">
+              <img src="resources/feeder.jpg" alt="Placeholder image">
+          </figure>
+      </div>
+      <div class="card-content">
+          <div class="content">
+             Feeder Machine
+          </div>
+      </div>
+  </div>
+  </div>
+  </div>
+
 
 ### Made with Vuforia Spatial Toolbox
 
