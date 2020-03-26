@@ -148,16 +148,17 @@ permalink: /
   </div>
     <div class="column is-one-third">
   <div class="card">
-      <div class="card-image">
+        <a href="https://www.ptc.com/en/about/reality-lab/portfolio/experiment/editing-ar-in-space">
+        <div class="card-image">
           <figure class="image is-5by3">
               <img src="resources/loto.jpg" alt="Placeholder image">
-          </figure>
+          </figure><br>
+          Lock out Tag out
       </div>
       <div class="card-content">
-          <div class="content">
-            <a href="https://www.ptc.com/en/about/reality-lab/portfolio/experiment/editing-ar-in-space">Lock out Tag out</a>
-          </div>
+          Lock out Tag out
       </div>
+      </a>
   </div>
   </div>
   </div>
