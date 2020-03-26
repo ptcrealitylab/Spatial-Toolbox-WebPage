@@ -42,9 +42,6 @@ permalink: /
             </div>
         </div>
     </div>
-</section>
-
-<section class="section">
     <div class="container">
         <h1 class="title">What is Vuforia Spatial Toolbox?</h1>
     </div>
