@@ -107,13 +107,13 @@ permalink: /
     <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware">
     Make hardware interfaces</a>
   </div>
-   <div class="column is-full">
-    &nbsp;
-      </div>
 </div>
 
 
 <div class="columns is-vcentered is-centered  is-multiline">
+  <div class="column is-full">
+    &nbsp;
+ </div>
  <div class="column is-full">
     <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
