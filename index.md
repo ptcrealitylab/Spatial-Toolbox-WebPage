@@ -7,12 +7,12 @@ permalink: /
     <div class="container">
         <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
         <div class="columns is-vcentered  is-multiline ">
-            <div class="column subtitle">
-                The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for
-                exploring spatial computing.
+            <div class="column">
+                <div class=" subtitle">The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for
+                    exploring spatial computing.</div>
             </div>
-            <div class="column is-one-third">
-                <div class="buttons is-pulled-right">
+            <div class="column is-one-third is-vcentered ">
+                <div class="buttons is-pulled-right is-vcentered ">
                     <button class="button is-success   is-medium is-light is-pulled-right"
                             onclick="location.href='/docs/use';">Download
                     </button>
@@ -22,11 +22,14 @@ permalink: /
                 </div>
             </div>
         </div>
+        <div class="container">
+            &nbsp;
+        </div>
     </div>
     <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
             <div class="column is-one-third is-vcentered is-centered">
-                <img src="resources/distance.gif" alt=""/><br>
+                <p><img src="resources/distance.gif" alt=""/></p>
                 <div class="subtitle">Spatial Tools</div>
             </div>
             <div class="column is-one-third">
