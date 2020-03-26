@@ -154,8 +154,9 @@ permalink: /
         <div class="card-image">
           <figure class="image is-5by3">
               <img src="resources/loto.jpg" alt="Placeholder image">
-          </figure><br>
-          Lock out Tag out
+               Lock out Tag out
+          </figure>
+         
       </div>
       <div class="card-content">
           Lock out Tag out
