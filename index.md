@@ -36,7 +36,7 @@ permalink: /
   </div>
 </div>
 
-### What is Vuforia Spatial Toolbox? (video placeholder)
+<h2>What is Vuforia Spatial Toolbox?</h2>
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;"><img src = "resources/toolboxVideoPlaceholder.jpg" border = "0"></iframe></div>
 
 
