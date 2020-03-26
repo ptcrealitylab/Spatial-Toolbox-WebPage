@@ -3,35 +3,13 @@ layout: home
 permalink: /
 ---
 
-#### A sandbox for Spatial Computing Interfaces
-> Use Spatial Tools to program machines, robots and digital user interfaces  using Augmented Reality on your environment.
-
-
-<div class="columns">
-  <div class="column">
-    ![Image of Reality Server](resources/distance.gif)
-  </div>
-  <div class="column">
-    ![Image of Reality Server](resources/mir.gif) 
-  </div>
-  <div class="column">
-    ![Image of Reality Server](resources/vst.gif)
-  </div>
-  <div class="column">
-    Fourth column
-  </div>
-</div>
-test
-
-
 <div class="columns is-vcentered">
   <div class="column">
-    <h2>Vuforia Spatial Toolbox</h2>
-    <h4>A sandbox for Spatial Computing Interfaces</h4>
-    <p>Program machines, robots and digital user interfaces using Augmented Reality on your environment.</p>
+    <h4>A Toolbox for Spatial Computing Experiments</h4>
+    <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
   <div class="column">
-    <a class="button is-primary is-pulled-right" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/blob/master/startSystem/startSystem.md">
+    <a class="button is-primary is-pulled-right" href="/docs/use">
       Get Started
     </a>
   </div>
@@ -39,19 +17,22 @@ test
 
 <div class="columns is-vcentered is-centered">
   <div class="column">
-    <img src="resources/vst.gif" alt="Image of Reality Server"/>
+    <img src="resources/distance.gif" alt="Image of Reality Server"/>
     <div class="column">
         Spatial Tools
     </div>
   </div>
   <div class="column">
-    <img src="resources/mir.gif" alt="Image of Reality Server"/>
-  </div>
-   <div class="column">
-    Spatial Programming
+    <img src="resources/vst.gif" alt="Image of Reality Server"/>
+    <div class="column">
+        Spatial Programming
+    </div>
   </div>
   <div class="column">
-    <img src="resources/distance.gif" alt="Image of Reality Server"/>
+    <img src="resources/mir.gif" alt="Image of Reality Server"/>
+    <div class="column">
+        Spatial Robotic UI
+    </div>
   </div>
 </div>
 
