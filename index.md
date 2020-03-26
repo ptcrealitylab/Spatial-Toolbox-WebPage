@@ -8,7 +8,7 @@ permalink: /
     <h4>A Toolbox for Spatial Computing Experiments</h4>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
-  <div class="column">
+  <div class="column is-one-quarter">
     <a class="button is-primary is-pulled-right" href="/docs/use">
       Get Started
     </a>
@@ -35,14 +35,6 @@ permalink: /
     </div>
   </div>
 </div>
-
-
-
-|   | | |
-| ------| -----------| -----------|
-| Spatial Tools | Spatial Programming  | Spatial Robotic UI |
-
-[Get Started](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/blob/master/startSystem/startSystem.md)
 
 ### What is Vuforia Spatial Toolbox? (video placeholder)
 <div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;" allowfullscreen class="video" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;"><img src = "resources/toolboxVideoPlaceholder.jpg" border = "0"></iframe></div>
