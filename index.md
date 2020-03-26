@@ -17,19 +17,19 @@ permalink: /
 
 <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
-    <img src="resources/distance.gif" alt="Image of Reality Server"/>
+    <img src="resources/distance.gif" alt=""/>
     <div class="column is-one-third">
         Spatial Tools
     </div>
   </div>
   <div class="column is-one-third">
-    <img src="resources/vst.gif" alt="Image of Reality Server"/>
+    <img src="resources/vst.gif" alt=""/>
     <div class="column is-one-third">
         Spatial Programming
     </div>
   </div>
   <div class="column is-one-third">
-    <img src="resources/mir.gif" alt="Image of Reality Server"/>
+    <img src="resources/mir.gif" alt=""/>
     <div class="column is-one-third">
         Spatial Robotic UI
     </div>
@@ -37,7 +37,7 @@ permalink: /
 </div>
 
 
-<div class="columns is-vcentered is-centered">
+<div class="columns is-vcentered is-centered is-0">
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
     <div class="column is-full">
@@ -49,6 +49,7 @@ permalink: /
     </div>
   </div>
   </div>
+  
   <div class="columns is-vcentered is-centered">
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
