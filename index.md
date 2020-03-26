@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
-<section class="section">
+<section class="section is-medium">
     <div class="container">
         <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
     </div>
@@ -42,8 +42,9 @@ permalink: /
             </div>
         </div>
     </div>
-      <div class="container">
-      </div>
+</section>
+
+<section class="section is-medium">
     <div class="container">
         <h1 class="title">What is Vuforia Spatial Toolbox?</h1>
     </div>
