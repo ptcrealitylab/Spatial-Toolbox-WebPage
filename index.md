@@ -42,10 +42,10 @@ test
     <img src="resources/vst.gif" alt="Image of Reality Server"/>
   </div>
   <div class="column">
-    <img src="images/home/mir.gif" alt="Image of Reality Server"/>
+    <img src="resources/mir.gif" alt="Image of Reality Server"/>
   </div>
   <div class="column">
-    <img src="images/home/distance.gif" alt="Image of Reality Server"/>
+    <img src="resources/distance.gif" alt="Image of Reality Server"/>
   </div>
 </div>
 
