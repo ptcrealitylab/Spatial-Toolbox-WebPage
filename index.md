@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
-<div class="columns is-vcentered">
+<div class="columns is-vcentered  is-multiline ">
   <div class="column">
     <h3>A Toolbox for Spatial Computing Experiments</h3>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
@@ -15,7 +15,7 @@ permalink: /
   </div>
 </div>
 
-<div class="columns is-vcentered is-centered">
+<div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-one-third">
     <img src="resources/distance.gif" alt=""/>
     <div class="column is-one-third">
@@ -37,7 +37,7 @@ permalink: /
 </div>
 
 
-<div class="columns is-vcentered is-centered is-0">
+<div class="columns is-vcentered is-centered is-0  is-multiline ">
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
   </div>
@@ -50,7 +50,7 @@ permalink: /
        </div>
   
   
-  <div class="columns is-vcentered is-centered">
+  <div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
@@ -82,7 +82,7 @@ permalink: /
   </div>
 </div>
 
-<div class="columns is-vcentered is-centered">
+<div class="columns is-vcentered is-centered  is-multiline ">
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
   </div>
@@ -108,7 +108,7 @@ permalink: /
 </div>
 
 
-<div class="columns is-vcentered is-centered">
+<div class="columns is-vcentered is-centered  is-multiline ">
  <div class="column is-full">
     <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
