@@ -34,10 +34,9 @@ permalink: /
         Spatial Robotic UI
     </div>
   </div>
-</div>
-
-
-<div class="columns is-vcentered is-centered is-0  is-multiline ">
+  <div class="column is-full">
+  &nbsp;
+    </div>
   <div class="column is-full">
     <h3>What is Vuforia Spatial Toolbox?</h3>
   </div>
@@ -46,9 +45,9 @@ permalink: /
               <img src = "resources/toolboxVideoPlaceholder.jpg" border = "0">
               </iframe>
        </div>
-  </div>
-  
-  <div class="columns is-vcentered is-centered  is-multiline ">
+        <div class="column is-full">
+         &nbsp;
+           </div>
   <div class="column is-full">
   <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
@@ -76,9 +75,9 @@ permalink: /
         3. Program hardware system using AR interfaces
     </div>
   </div>
-</div>
-
-<div class="columns is-vcentered is-centered  is-multiline ">
+ <div class="column is-full">
+  &nbsp;
+    </div>
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
   </div>
@@ -99,10 +98,9 @@ permalink: /
     <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware">
     Make hardware interfaces</a>
   </div>
-</div>
-
-
-<div class="columns is-vcentered is-centered  is-multiline">
+ <div class="column is-full">
+  &nbsp;
+    </div>
  <div class="column is-full">
     <h3>Made with Vuforia Spatial Toolbox</h3>
   </div>
