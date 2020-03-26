@@ -48,10 +48,7 @@ permalink: /
         </div>
     </div>
   </div>
-</div>
-
-<div class="columns is-vcentered is-centered">
- <div class="column is-full">
+  <div class="column is-full">
     <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
 
