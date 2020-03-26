@@ -37,11 +37,11 @@ test
   </div>
 </div>
 
-<div class="columns">
+<div class="columns is-centered">
   <div class="column">
-    <p><img src="resources/vst.gif" alt="Image of Reality Server"/></p>
+    <img src="resources/vst.gif" alt="Image of Reality Server"/>
     <div class="column">
-        <Spatial Tools
+        Spatial Tools
     </div>
   </div>
   <div class="column">
