@@ -6,43 +6,44 @@ permalink: /
 
 <section class="section">
     <div class="container">
-      <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
+        <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
     </div>
-     <div class="container">
-     <div class="columns is-vcentered  is-multiline ">
-           <div class="column">
-         The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
-       </div>
-       <div class="column is-one-third">
-       <div class="buttons">
-         <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Download</button>  
-         <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Get Started</button>
-      </div>
-       </div>
-     </div>
-       <div class="columns is-vcentered is-centered  is-multiline ">
-         <div class="column is-one-third">
-           <img src="resources/distance.gif" alt=""/>
-           <div class="column is-full">
-               Spatial Tools
-           </div>
-         </div>
-         <div class="column is-one-third">
-           <img src="resources/vst.gif" alt=""/>
-           <div class="column is-full">
-               Spatial Programming
-           </div>
-         </div>
-         <div class="column is-one-third">
-           <img src="resources/mir.gif" alt=""/>
-           <div class="column is-full">
-               Spatial Robotic UI
-           </div>
-         </div>
-       </div>
+    <div class="container">
+        <div class="columns is-vcentered  is-multiline ">
+            <div class="column">
+                The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
+            </div>
+            <div class="column is-one-third">
+                <div class="buttons">
+                    <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Download</button>
+                    <button class="button is-success is-outlined is-pulled-right" onclick="location.href='/docs/use';">Get Started</button>
+                </div>
+            </div>
+        </div>
     </div>
-  </section>
-   
+    <div class="container">
+        <div class="columns is-vcentered is-centered  is-multiline ">
+            <div class="column is-one-third">
+                <img src="resources/distance.gif" alt=""/>
+                <div class="column is-full">
+                    Spatial Tools
+                </div>
+            </div>
+            <div class="column is-one-third">
+                <img src="resources/vst.gif" alt=""/>
+                <div class="column is-full">
+                    Spatial Programming
+                </div>
+            </div>
+            <div class="column is-one-third">
+                <img src="resources/mir.gif" alt=""/>
+                <div class="column is-full">
+                    Spatial Robotic UI
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
