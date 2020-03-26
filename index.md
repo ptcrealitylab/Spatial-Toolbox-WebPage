@@ -5,7 +5,7 @@ permalink: /
 <!--- references for styling: https://bulma.io/documentation/ --->
 <section class="section is-small">
     <div class="container">
-        <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
+        <h2 class="title">A Toolbox for Spatial Computing Experiments</h2>
         <div class="columns is-vcentered  is-multiline ">
             <div class="column">
                 <div class=" subtitle">The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for
@@ -14,10 +14,10 @@ permalink: /
             <div class="column is-one-third is-vcentered ">
                 <div class="buttons is-pulled-right is-vcentered ">
                     <button class="button is-success   is-medium is-light is-pulled-right"
-                            onclick="location.href='/docs/use';">Download
+                            onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/download';">Download
                     </button>
                     <button class="button is-success   is-medium  is-light is-pulled-right"
-                            onclick="location.href='/docs/use';">Get Started
+                            onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/use';">Get Started
                     </button>
                 </div>
             </div>
@@ -53,7 +53,6 @@ permalink: /
     </div>
     <div class="container">
         <h1 class="title">What is Vuforia Spatial Toolbox?</h1>
-
         <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
             <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;"
                     allowfullscreen class="video"
@@ -72,7 +71,7 @@ permalink: /
                     <img src="resources/what3.jpg" alt="Image of Reality Server"/>
                 </figure>
                 <div class="column subtitle">
-                    1. Attach Spatial Tools to objects tracked with Vuforia Engine
+                    1. Attach Spatial Tools to objects tracked with <a href="https://developer.vuforia.com">Vuforia Engine</a>
                 </div>
             </div>
             <div class="column is-one-third">
@@ -80,7 +79,7 @@ permalink: /
                     <img src="resources/what2.jpg" alt="Image of Reality Server"/>
                 </figure>
                 <div class="column subtitle">
-                    2. Program physical machines spatially using Kepware
+                    2. Program physical machines spatially using <a href="https://www.kepware.com">Kepware</a>
                 </div>
             </div>
             <div class="column is-one-third">
@@ -99,26 +98,26 @@ permalink: /
         <h1 class="title">Access our Tutorials</h1>
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-half">
-                <a class="button is-medium is-fullwidth is-success is-light"
-                   href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/make%20tools">
-                    Use the Spatial Toolbox</a>
+                <div class="button is-medium is-fullwidth is-success is-light"
+                     onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/use/using-the-app';">
+                    Use the Spatial Toolbox</div>
             </div>
             <div class="column is-half">
-                <a class="button is-medium is-fullwidth is-success is-light"
-                   href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/use">
-                    Create new Tools</a>
+                <div class="button is-medium is-fullwidth is-success is-light"
+                     onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/develop/spatial-tools/tutorial';">
+                    Create new Tools</div>
             </div>
         </div>
         <div class="columns is-vcentered is-centered">
             <div class="column is-half">
-                <a class="button is-medium is-fullwidth is-success is-light"
-                   href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/understandSystem">
-                    Create new hardware interfaces</a>
+                <div class="button is-medium is-fullwidth is-success is-light"
+                     onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/develop/hardware-interfaces/tutorial';">
+                    Create new hardware interfaces</div>
             </div>
             <div class="column is-half">
-                <a class="button is-medium is-fullwidth is-success is-light"
-                   href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware">
-                    Learn about the system</a>
+                <div class="button is-medium is-fullwidth is-success is-light"
+                     onclick="location.href='https://ptcrealitylab.github.io/Spatial-Toolbox-WebPage/docs/dive-deeper/system-architecture';">
+                    Learn about the system</div>
             </div>
         </div>
     </div>
@@ -127,30 +126,30 @@ permalink: /
     <div class="container">
         <h1 class="title">Made with Vuforia Spatial Toolbox</h1>
         <div class="columns is-vcentered is-centered  is-multiline">
-            <div class="column is-one-third  is-pulled-left">
+            <div class="column is-one-third">
                 <div class="card">
-                    <div class="card-image">
+                    <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/editing-reality">
+                  <div class="card-image">
                         <figure class="image is-5by3">
                             <img src="resources/feeder.jpg" alt="Placeholder image">
                         </figure>
                     </div>
+                    </a>
                     <div class="card-content subtitle">
-                        <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/editing-reality">Feeder
-                            Machine</a>
+                        <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/editing-reality">Feeder Machine</a>
                     </div>
                 </div>
             </div>
             <div class="column is-one-third">
                 <div class="card">
-                    <div class="card-image">
+                    <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/kinetic-ar"> <div class="card-image">
                         <figure class="image is-5by3">
                             <img src="resources/frida.jpg" alt="Placeholder image">
                         </figure>
-                    </div>
+                    </div></a>
                     <div class="card-content">
                         <div class="content subtitle">
-                            <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/kinetic-ar">AGV path
-                                planning</a>
+                            <a href="https://www.ptc.com/en/about/reality-lab/portfolio/research/kinetic-ar">AGV path planning</a>
                         </div>
                     </div>
                 </div>
