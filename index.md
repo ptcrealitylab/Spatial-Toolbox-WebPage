@@ -39,8 +39,10 @@ test
 
 <div class="columns">
   <div class="column">
-    <img src="resources/vst.gif" alt="Image of Reality Server"/>
-    Spatial Tools
+    <p><img src="resources/vst.gif" alt="Image of Reality Server"/></p>
+    <div class="column">
+        <Spatial Tools
+    </div>
   </div>
   <div class="column">
     <img src="resources/mir.gif" alt="Image of Reality Server"/>
