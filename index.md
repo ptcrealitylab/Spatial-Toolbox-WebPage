@@ -37,7 +37,7 @@ test
   </div>
 </div>
 
-<div class="columns is-centered">
+<div class="columns is-vcentered is-centered">
   <div class="column">
     <img src="resources/vst.gif" alt="Image of Reality Server"/>
     <div class="column">
