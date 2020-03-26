@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="columns is-vcentered">
-  <div class="column is-info is-outlined">
+  <div class="column">
     <h3>A Toolbox for Spatial Computing Experiments</h3>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
@@ -58,7 +58,7 @@ permalink: /
   <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
     <img src="resources/what1.jpg" alt="Image of Reality Server"/>
-    <div class="column">
+    <div class="column is-info">
         1. Generate 2D and 3D AR content around you 
     </div>
   </div>
