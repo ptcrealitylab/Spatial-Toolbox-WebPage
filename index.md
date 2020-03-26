@@ -2,8 +2,7 @@
 layout: home
 permalink: /
 ---
-<!--- references for styling: https://bulma.io/documentation/ --->
-<section class="section is-small">
+<section class="section">
     <div class="container">
         <h2 class="title">A Toolbox for Spatial Computing Experiments</h2>
         <div class="columns is-vcentered  is-multiline ">
@@ -159,3 +158,5 @@ permalink: /
         </div>
     </div>
 </section>
+
+<!--- references for styling: https://bulma.io/documentation/ --->
