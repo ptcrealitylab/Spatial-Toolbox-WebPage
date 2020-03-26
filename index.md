@@ -4,15 +4,21 @@ permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
 
+  <section class="section">
+    <div class="container">
+      <h1 class="title">A Toolbox for Spatial Computing Experiments</h1>
+    </div>
+     <div class="container">
+      The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.
+       </div>
+  </section>
+
 <section class="hero">
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
         Hero title
       </h1>
-      <h2 class="subtitle">
-        Hero subtitle
-      </h2>
     </div>
   </div>
 </section>
