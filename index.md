@@ -9,7 +9,10 @@ permalink: /
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
   <div class="column is-one-quarter">
-    <a class="button is-success is-pulled-right" href="/docs/use">
+    <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
+         Download
+       </a>
+    <a class="button is-success is-outlined is-pulled-right" href="/docs/use">
       Get Started
     </a>
   </div>
