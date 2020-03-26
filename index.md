@@ -76,13 +76,6 @@ permalink: /
   </div>
 </div>
 
-### Access our Tutorials:
-
-| [Make Tools](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/make%20tools) | [Use the toolbox](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/use) |
-| --------------- | ----------------- |
-| [Understand the system](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/understandSystem) | [Make hardware interfaces](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware) |
-
-
 <div class="columns is-vcentered is-centered">
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
@@ -90,17 +83,21 @@ permalink: /
 </div>
 <div class="columns is-vcentered is-centered">
   <div class="column is-half">
-   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
+   <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/make%20tools">
+   Make Tools</a>
   </div>
   <div class="column is-half">
-   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
+   <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/use">
+   Use the toolbox</a>
   </div>
   </div><div class="columns is-vcentered is-centered">
   <div class="column is-half">
-   <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
+   <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/understandSystem">
+   Understand the system</a>
   </div>
   <div class="column is-half">
-    <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
+    <a class="button is-medium is-fullwidth is-info is-outlined" href="https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/tree/master/interfaceWithHardware">
+    Make hardware interfaces</a>
   </div>
 </div>
 
