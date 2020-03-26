@@ -18,19 +18,19 @@ permalink: /
 <div class="columns is-vcentered is-centered  is-multiline ">
   <div class="column is-one-third">
     <img src="resources/distance.gif" alt=""/>
-    <div class="column is-one-third">
+    <div class="column is-full">
         Spatial Tools
     </div>
   </div>
   <div class="column is-one-third">
     <img src="resources/vst.gif" alt=""/>
-    <div class="column is-one-third">
+    <div class="column is-full">
         Spatial Programming
     </div>
   </div>
   <div class="column is-one-third">
     <img src="resources/mir.gif" alt=""/>
-    <div class="column is-one-third">
+    <div class="column is-full">
         Spatial Robotic UI
     </div>
   </div>
