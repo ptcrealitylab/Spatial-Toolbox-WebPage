@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="columns is-vcentered">
-  <div class="column">
+  <div class="column is-info is-outlined">
     <h3>A Toolbox for Spatial Computing Experiments</h3>
     <p>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing as a community.</p>
   </div>
