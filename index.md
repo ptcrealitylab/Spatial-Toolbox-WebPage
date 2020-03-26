@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 ---
-
+<!--- references for styling: https://bulma.io/documentation/ --->
 <div class="columns is-vcentered">
   <div class="column">
     <h3>A Toolbox for Spatial Computing Experiments</h3>
@@ -57,7 +57,7 @@ permalink: /
   </div>
   <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
-  <figure class="image is-4by3">
+  <figure class="image is-5by3">
     <img src="resources/what1.jpg" alt="Image of Reality Server"/>
     </figure>
     <div class="column is-info">
@@ -65,7 +65,7 @@ permalink: /
     </div>
   </div>
   <div class="column is-one-third">
-  <figure class="image is-4by3">
+  <figure class="image is-5by3">
     <img src="resources/what3.jpg" alt="Image of Reality Server"/>
     </figure>
     <div class="column">
@@ -73,7 +73,7 @@ permalink: /
     </div>
   </div>
   <div class="column is-one-third">
-  <figure class="image is-4by3">
+  <figure class="image is-5by3">
     <img src="resources/what2.jpg" alt="Image of Reality Server"/>
     </figure>
     <div class="column">
@@ -115,7 +115,7 @@ permalink: /
   <div class="column is-one-third">
   <div class="card">
     <div class="card-image">
-        <figure class="image is-4by3">
+        <figure class="image is-5by3">
             <img src="resources/feeder.jpg" alt="Placeholder image">
         </figure>
     </div>
@@ -127,7 +127,7 @@ permalink: /
   <div class="column is-one-third">
 <div class="card">
     <div class="card-image">
-        <figure class="image is-4by3">
+        <figure class="image is-5by3">
             <img src="resources/frida.jpg" alt="Placeholder image">
         </figure>
     </div>
@@ -141,7 +141,7 @@ permalink: /
     <div class="column is-one-third">
   <div class="card">
       <div class="card-image">
-          <figure class="image is-4by3">
+          <figure class="image is-5by3">
               <img src="resources/loto.jpg" alt="Placeholder image">
           </figure>
       </div>
