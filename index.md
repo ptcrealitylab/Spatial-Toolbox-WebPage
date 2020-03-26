@@ -3,6 +3,19 @@ layout: home
 permalink: /
 ---
 <!--- references for styling: https://bulma.io/documentation/ --->
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Hero title
+      </h1>
+      <h2 class="subtitle">
+        Hero subtitle
+      </h2>
+    </div>
+  </div>
+</section>
 <div class="columns is-vcentered  is-multiline ">
   <div class="column is-full">
     <h3>A Toolbox for Spatial Computing Experiments</h3>
