@@ -33,11 +33,11 @@ permalink: /
                 <div class="subtitle">Spatial Tools</div>
             </div>
             <div class="column is-one-third">
-               <p>< <img src="resources/vst.gif" alt=""/></p>
+               <p><img src="resources/vst.gif" alt=""/></p>
                 <div class="subtitle">Spatial Programming</div>
             </div>
             <div class="column is-one-third">
-                <p><<img src="resources/mir.gif" alt=""/></p>
+                <p><img src="resources/mir.gif" alt=""/></p>
                 <div class="subtitle">Spatial Robotic UI</div>
             </div>
         </div>
