@@ -50,12 +50,11 @@ permalink: /
   </div>
   </div>
   <div class="columns is-vcentered is-centered">
-
   <div class="column is-full">
-    <h3>What do I use Vuforia Spatial Toolbox for</h3>
+  <h3>What do I use Vuforia Spatial Toolbox for</h3>
   </div>
-    </div>
-    <div class="columns is-vcentered is-centered">
+  </div>
+  <div class="columns is-vcentered is-centered">
   <div class="column is-one-third">
     <img src="resources/what1.jpg" alt="Image of Reality Server"/>
     <div class="column">
@@ -87,7 +86,6 @@ permalink: /
  <div class="column is-full">
     <h3>Access our Tutorials</h3>
   </div>
-
   <div class="column is-half">
    <button class="button is-medium is-fullwidth is-info is-outlined">Medium</button>
   </div>
