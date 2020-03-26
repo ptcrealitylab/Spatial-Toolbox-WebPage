@@ -127,12 +127,12 @@ permalink: /
 <div class="card">
     <div class="card-image">
         <figure class="image is-4by3">
-            <img src="resources/feeder.jpg" alt="Placeholder image">
+            <img src="resources/frida.jpg" alt="Placeholder image">
         </figure>
     </div>
     <div class="card-content">
         <div class="content">
-           Feeder Machine
+           AGV path planning
         </div>
     </div>
 </div>
@@ -141,12 +141,12 @@ permalink: /
   <div class="card">
       <div class="card-image">
           <figure class="image is-4by3">
-              <img src="resources/feeder.jpg" alt="Placeholder image">
+              <img src="resources/loto.jpg" alt="Placeholder image">
           </figure>
       </div>
       <div class="card-content">
           <div class="content">
-             Feeder Machine
+            Lock out Tag out
           </div>
       </div>
   </div>
