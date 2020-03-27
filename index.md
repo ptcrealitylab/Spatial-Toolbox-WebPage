@@ -158,6 +158,3 @@ permalink: /
         </div>
     </div>
 </section>
-
-
-<!--- references for styling: https://bulma.io/documentation/ --->
