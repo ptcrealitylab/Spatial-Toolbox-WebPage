@@ -13,10 +13,10 @@ permalink: /
             <div class="column is-one-third is-vcentered ">
                 <div class="buttons is-pulled-right is-vcentered ">
                     <button class="button is-success   is-medium is-light is-pulled-right"
-                            onclick="location.href='https://ptcrealitylab.github.io/docs/download';">Download
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">Download
                     </button>
                     <button class="button is-success   is-medium  is-light is-pulled-right"
-                            onclick="location.href='https://ptcrealitylab.github.io/docs/use';">Get Started
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">Get Started
                     </button>
                 </div>
             </div>
@@ -98,24 +98,24 @@ permalink: /
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-half">
                 <div class="button is-medium is-fullwidth is-success is-light"
-                     onclick="location.href='https://ptcrealitylab.github.io/docs/use/using-the-app';">
+                     onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use/using-the-app';">
                     Use the Spatial Toolbox</div>
             </div>
             <div class="column is-half">
                 <div class="button is-medium is-fullwidth is-success is-light"
-                     onclick="location.href='https://ptcrealitylab.github.io/docs/develop/spatial-tools/tutorial';">
+                     onclick="location.href='https://spatialtoolbox.vuforia.com/docs/develop/spatial-tools/tutorial';">
                     Create new Tools</div>
             </div>
         </div>
         <div class="columns is-vcentered is-centered">
             <div class="column is-half">
                 <div class="button is-medium is-fullwidth is-success is-light"
-                     onclick="location.href='https://ptcrealitylab.github.io/docs/develop/hardware-interfaces/tutorial';">
+                     onclick="location.href='https://spatialtoolbox.vuforia.com/docs/develop/hardware-interfaces/tutorial';">
                     Create new hardware interfaces</div>
             </div>
             <div class="column is-half">
                 <div class="button is-medium is-fullwidth is-success is-light"
-                     onclick="location.href='https://ptcrealitylab.github.io/docs/dive-deeper/system-architecture';">
+                     onclick="location.href='https://spatialtoolbox.vuforia.com/docs/dive-deeper/system-architecture';">
                     Learn about the system</div>
             </div>
         </div>
