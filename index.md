@@ -63,8 +63,8 @@ permalink: /
 </section>
 <section class="section">
     <div class="container">
-        <h1 class="title header-home">What do I use <span class="highlight">Vuforia Spatial Toolbox</span> for</h1>
-        <div class="columns is-vcentered is-centered  is-multiline ">
+        <h1 class="title header-home">What do I use <span class="highlight">Vuforia Spatial Toolbox</span> for?</h1>
+        <div class="columns is-centered is-multiline">
             <div class="column is-one-third">
                 <figure class="image is-5by3">
                     <img src="resources/what1.png" alt="Attach spatial tools graphic"/>
