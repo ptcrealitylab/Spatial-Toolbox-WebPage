@@ -22,12 +22,14 @@
     - title: Connect the Physical World
       url: /docs/use/connect-to-the-physical-world/startSystem
       sublinks:
-        - title: Web Interface Manager
-          url: /docs/use/connect-to-the-physical-world/web-interface-manager
         - title: Install on Mac
           url: /docs/use/connect-to-the-physical-world/install-on-mac
         - title: Install on Windows
           url: /docs/use/connect-to-the-physical-world/install-on-windows
+        - title: Web Interface Manager
+          url: /docs/use/connect-to-the-physical-world/web-interface-manager
+        - title: How to Create an Object
+          url: /docs/use/connect-to-the-physical-world/create-object
 - title: Develop
   url: /docs/develop
   sublinks:
