@@ -67,7 +67,7 @@ permalink: /
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what3.jpg" alt="Image of Reality Server"/>
+                    <img src="resources/what1.jpg" alt="Attach spatial tools graphic"/>
                 </figure>
                 <div class="column subtitle">
                     1. Attach Spatial Tools to objects tracked with <a href="https://developer.vuforia.com">Vuforia Engine</a>
@@ -75,15 +75,15 @@ permalink: /
             </div>
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what2.jpg" alt="Image of Reality Server"/>
+                    <img src="resources/what2.jpg" alt="Program physical machines graphic"/>
                 </figure>
                 <div class="column subtitle">
-                    2. Program physical machines spatially using <a href="https://www.kepware.com">Kepware</a>
+                    2. Program physical machines spatially using <a href="https://www.kepware.com">Kepware</a> or other supported platforms
                 </div>
             </div>
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what1.jpg" alt="Image of Reality Server"/>
+                    <img src="resources/what3.jpg" alt="Generate your own tools graphic"/>
                 </figure>
                 <div class="column subtitle">
                     3. Generate your own 2D and 3D Spatial Tools
