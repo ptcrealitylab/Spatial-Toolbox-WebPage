@@ -51,9 +51,9 @@ permalink: /
         &nbsp;
     </div>
     <div class="container">
-        <h1 class="title">What is Vuforia Spatial Toolbox?</h1>
+        <h1 class="title header-home">What is Vuforia Spatial Toolbox?</h1>
         <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-            <iframe src="https://www.youtube.com/embed/JLP2t7yymnQ?rel=0" frameborder="0" allow="autoplay;"
+            <iframe src="https://www.youtube.com/embed/k3uHFk1PAAM?rel=0" frameborder="0" allow="autoplay;"
                     allowfullscreen class="video"
                     style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
                 <img src="resources/toolboxVideoPlaceholder.jpg" border="0">
@@ -63,30 +63,30 @@ permalink: /
 </section>
 <section class="section">
     <div class="container">
-        <h1 class="title">What do I use Vuforia Spatial Toolbox for</h1>
+        <h1 class="title header-home">What do I use <span class="highlight">Vuforia Spatial Toolbox</span> for</h1>
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what1.jpg" alt="Attach spatial tools graphic"/>
+                    <img src="resources/what1.png" alt="Attach spatial tools graphic"/>
                 </figure>
                 <div class="column subtitle">
-                    1. Attach Spatial Tools to objects tracked with <a href="https://developer.vuforia.com">Vuforia Engine</a>
+                    <span class="num-highlight">1.</span><br/> Attach Spatial Tools to objects tracked with <a href="https://developer.vuforia.com">Vuforia Engine</a>
                 </div>
             </div>
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what2.jpg" alt="Program physical machines graphic"/>
+                    <img src="resources/what2.png" alt="Program physical machines graphic"/>
                 </figure>
                 <div class="column subtitle">
-                    2. Program physical machines spatially using <a href="https://www.kepware.com">Kepware</a> or other supported platforms
+                    <span class="num-highlight">2.</span><br/> Program physical machines spatially using <a href="https://www.kepware.com">Kepware</a> and other supported platforms
                 </div>
             </div>
             <div class="column is-one-third">
                 <figure class="image is-5by3">
-                    <img src="resources/what3.jpg" alt="Generate your own tools graphic"/>
+                    <img src="resources/what3.png" alt="Generate your own tools graphic"/>
                 </figure>
                 <div class="column subtitle">
-                    3. Generate your own 2D and 3D Spatial Tools
+                    <span class="num-highlight">3.</span><br/> Generate your own 2D and 3D Spatial Tools to place in your environment
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@ permalink: /
 </section>
 <section class="section is-small">
     <div class="container">
-        <h1 class="title">Access our Tutorials</h1>
+        <h1 class="title header-home">Access our Tutorials</h1>
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-half">
                 <div class="button is-medium is-fullwidth is-success is-light"
@@ -123,7 +123,7 @@ permalink: /
 </section>
 <section class="section">
     <div class="container">
-        <h1 class="title">Made with Vuforia Spatial Toolbox</h1>
+        <h1 class="title header-home">Made with Vuforia Spatial Toolbox</h1>
         <div class="columns is-vcentered is-centered  is-multiline">
             <div class="column is-one-third">
                 <div class="card">
