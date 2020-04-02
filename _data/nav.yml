@@ -75,6 +75,13 @@
       url: /docs/develop/hardware-interfaces/tutorial
     - title: Adding Settings to a Hardware Interface
       url: /docs/tutorials/adding-settings-to-hardware-interface
+    - title: Robotic Add-on
+      url: /docs/vuforia-spatial-robotic-addon
+      sublinks:
+        - title: KineticAR Prototyping
+          url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/kineticAR
+        - title: Using the Motion Tool
+          url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/tools/motion/motionTool
 - title: Dive Deeper
   url: /docs/dive-deeper
   sublinks:
