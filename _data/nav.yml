@@ -12,6 +12,8 @@
       url: /docs/download
     - title: Change Log
       url: /docs/download/change-log
+    - title: Addons
+      url: /docs/add-ons
 - title: Use
   url: /docs/use
   sublinks:
