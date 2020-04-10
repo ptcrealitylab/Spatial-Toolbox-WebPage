@@ -60,6 +60,8 @@
   sublinks:
     - title: How to Create an Object
       url: /docs/use/connect-to-the-physical-world/create-object
+    - title: Attaching Targets to Objects
+      url: /docs/tutorials/attaching-targets-to-objects
     - title: Creating a Simple Tool
       url: /docs/develop/spatial-tools/tutorial
     - title: Creating Context-Dependent Tools
