@@ -1,6 +1,8 @@
-- title: Download
+- title: Software
   url: /docs/download
   sublinks:
+    - title: Download
+      url: /docs/download
     - title: Change Log
       url: /docs/download/change-log
 - title: Use
@@ -91,4 +93,3 @@
       url: /docs/dive-deeper/data-model
     - title: Local vs Global Tools
       url: /docs/dive-deeper/local-vs-global-tools
-

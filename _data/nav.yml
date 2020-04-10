@@ -5,9 +5,11 @@
 - title: Forum
   url: https://forum.spatialtoolbox.vuforia.com/
   absolute: true
-- title: Download
+- title: Software
   url: /docs/download
   sublinks:
+    - title: Download
+      url: /docs/download
     - title: Change Log
       url: /docs/download/change-log
 - title: Use
