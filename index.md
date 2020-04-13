@@ -125,13 +125,13 @@ permalink: /
         <h1 class="title header-home">Access our Tutorials</h1>
         <div class="columns is-vcentered is-centered  is-multiline ">
             <div class="column is-half">
-                <div class="button  is-outlined  is-medium  is-pulled-right is-dark"
+                <div class="button  is-outlined  is-medium  is-fullwidth is-dark"
                      onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use/using-the-app';">
                     Use the Spatial Toolbox
                 </div>
             </div>
             <div class="column is-half">
-                <div class="button  is-outlined  is-medium  is-pulled-right is-dark"
+                <div class="button  is-outlined  is-medium  is-fullwidth is-dark"
                      onclick="location.href='https://spatialtoolbox.vuforia.com/docs/develop/spatial-tools/tutorial';">
                     Create new Tools
                 </div>
@@ -139,13 +139,13 @@ permalink: /
         </div>
         <div class="columns is-vcentered is-centered">
             <div class="column is-half">
-                <div class="button  is-outlined  is-medium  is-pulled-right is-dark"
+                <div class="button  is-outlined  is-medium  is-fullwidth is-dark"
                      onclick="location.href='https://spatialtoolbox.vuforia.com/docs/develop/hardware-interfaces/tutorial';">
                     Create new hardware interfaces
                 </div>
             </div>
             <div class="column is-half">
-                <div class="button  is-outlined  is-medium  is-pulled-right is-dark"
+                <div class="button  is-outlined  is-medium  is-fullwidth is-dark"
                      onclick="location.href='https://spatialtoolbox.vuforia.com/docs/dive-deeper/system-architecture';">
                     Learn about the system
                 </div>
