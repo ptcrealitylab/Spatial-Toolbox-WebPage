@@ -27,7 +27,6 @@ permalink: /
     <div class="container">
         &nbsp;
     </div>
-    </div>
     <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
             <div class="column is-one-third is-vcentered is-centered">
