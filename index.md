@@ -21,21 +21,6 @@ permalink: /
                 </div>
             </div>
         </div>
-          <div class="container">
-        <div class="columns is-vcentered  is-multiline ">
-            <div class="column">
-                <div class=" subtitle">Adapting to the COVID-19 home office, we created a basic hardware interface addon. It allows you to connect the Vuforia Edge Server with your Arduino project, your children's Lego Boost and Lego Wedo 2.0 set, and as well the Philips Hue lighting system in your living room.</div>
-            </div>
-            <div class="column is-one-third is-vcentered ">
-                <div class="buttons is-pulled-right is-vcentered ">
-                    <button class="button is-success   is-medium is-light is-pulled-right"
-                            onclick="location.href='https://github.com/ptcrealitylab/vuforia-spatial-basic-interfaces-addon';"><span class="icon is-medium">
-        <i class="fab fa-github"></i>
-            </span>
-        <span>Download</span>
-                    </button>
-                </div>
-            </div>
         </div>
         <div class="container">
             &nbsp;
@@ -108,6 +93,23 @@ permalink: /
         </div>
     </div>
 </section>
+<section class="section is-small">
+  <div class="container">
+        <div class="columns is-vcentered  is-multiline ">
+            <div class="column">
+                <div class=" subtitle">Adapting to the COVID-19 home office, we created a basic hardware interface addon. It allows you to connect the Vuforia Edge Server with your Arduino project, your children's Lego Boost and Lego Wedo 2.0 set, and as well the Philips Hue lighting system in your living room.</div>
+            </div>
+            <div class="column is-one-third is-vcentered ">
+                <div class="buttons is-pulled-right is-vcentered ">
+                    <button class="button is-success   is-medium is-light is-pulled-right"
+                            onclick="location.href='https://github.com/ptcrealitylab/vuforia-spatial-basic-interfaces-addon';"><span class="icon is-medium">
+        <i class="fab fa-github"></i>
+            </span>
+        <span>Download</span>
+                    </button>
+                </div>
+            </div>
+            </section>
 <section class="section is-small">
     <div class="container">
         <h1 class="title header-home">Access our Tutorials</h1>
