@@ -21,6 +21,7 @@ $menu-item-active-color: black;
 
 @import "../_sass/bulma-0.8.0/bulma.sass";
 @import "minima";
+@import "../_sass/github.scss";
 
 .navbar-item, .navbar-link {
   font-weight: bold;
@@ -106,4 +107,12 @@ $menu-item-active-color: black;
 
 .header-home {
   margin-bottom: 60px !important;
+}
+
+pre code {
+  color: #333;
+}
+
+pre.highlight {
+  padding: 1em;
 }
