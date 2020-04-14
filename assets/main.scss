@@ -116,3 +116,18 @@ pre code {
 pre.highlight {
   padding: 1em;
 }
+
+.navbar-icon {
+  width: 330px;
+}
+
+@media (max-width: 400px) {
+  .navbar-icon {
+    width: 220px;
+  }
+
+  .wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
