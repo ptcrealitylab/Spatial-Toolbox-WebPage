@@ -13,20 +13,21 @@ permalink: /
                 </div>
             </div>
             <div class="column is-one-third is-vcentered ">
-                <div class="buttons is-pulled-right is-vcentered ">
-                    <button class="button  is-outlined  is-medium  is-pulled-right is-dark"
-                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">Download
-                    </button>
-                    <button class="button  is-outlined  is-medium  is-pulled-right is-dark"
-                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">Get Started
-                    </button>
+                <div class="buttons is-center is-vcentered ">
+                    <div class="button is-outlined is-medium is-dark"
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">
+                        Download
+                    </div>
+                    <div class="button  is-outlined  is-medium  is-dark"
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">
+                        Get Started
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container">
-        &nbsp;
-    </div>
+</section>
+    <section class="section">
     <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
             <div class="column is-one-third is-vcentered is-centered">
