@@ -4,12 +4,10 @@ permalink: /
 ---
 <section class="section">
     <div class="container">
-        <h2 class="title">A Toolbox for Spatial Computing Experiments</h2>
-        <div class="columns is-vcentered  is-multiline ">
+        <h2 class="title">A Unique Environment for Spatial Computing Experiments</h2>
+        <div class="columns is-vcentered is-multiline ">
             <div class="column">
-                <div class=" subtitle">The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared
-                    research platform for
-                    exploring spatial computing.
+                <div class=" subtitle">Create, innovate, and solve complex spatial computing problems in a whole new way.
                 </div>
             </div>
             <div class="column is-one-third is-vcentered ">
@@ -29,32 +27,19 @@ permalink: /
 </section>
     <section class="section">
     <div class="container">
-        <div class="columns is-vcentered is-centered is-multiline ">
-            <div class="column is-one-third is-vcentered is-centered">
-                <p><img src="resources/distance.gif" alt=""/></p>
-                <div class="subtitle">Spatial Tools</div>
-            </div>
-            <div class="column is-one-third">
-                <p><img src="resources/vst.gif" alt=""/></p>
-                <div class="subtitle">Spatial Programming</div>
-            </div>
-            <div class="column is-one-third">
-                <p><img src="resources/mir.gif" alt=""/></p>
-                <div class="subtitle">Spatial Robotic UI</div>
-            </div>
+        &nbsp;
+    </div>
+    <div class="container">
+        &nbsp;
+    </div>
+    <div class="container">
+        &nbsp;
+    </div>
+    <div class="container">
+        <h1 class="title header-home">What is the Vuforia Spatial Toolbox?</h1>
+        <div class="subtitle">
+          The Vuforia Spatial Toolbox is a shared research platform designed to accelerate the development of IoT, AR, and Spatial Computing prototypes and advance the capabilities of real-time spatial AR.
         </div>
-    </div>
-    <div class="container">
-        &nbsp;
-    </div>
-    <div class="container">
-        &nbsp;
-    </div>
-    <div class="container">
-        &nbsp;
-    </div>
-    <div class="container">
-        <h1 class="title header-home">What is Vuforia Spatial Toolbox?</h1>
         <div class="column is-full" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
             <iframe src="https://www.youtube.com/embed/k3uHFk1PAAM?rel=0" frameborder="0" allow="autoplay;"
                     allowfullscreen class="video"
@@ -62,34 +47,15 @@ permalink: /
                 <img src="resources/toolboxVideoPlaceholder.jpg" border="0">
             </iframe>
         </div>
-    </div>
-</section>
-<section class="section is-small">
-    <div class="container">
-        <div class="columns is-vcentered  is-multiline ">
-            <div class="column">
-                <div class=" subtitle">Adapting to the COVID-19 home office, we created a basic hardware interface
-                    addon. It allows you to connect the Vuforia Edge Server with your Arduino project, your children's
-                    Lego Boost and Lego Wedo 2.0 set, and as well the Philips Hue lighting system in your living room.
-                </div>
-            </div>
-            <div class="column is-one-quarter is-vcentered ">
-                <div class="buttons is-pulled-right is-vcentered ">
-                    <button class="button  is-outlined  is-medium  is-pulled-right is-dark"
-                            onclick="location.href='https://github.com/ptcrealitylab/vuforia-spatial-basic-interfaces-addon';"><span
-                            class="icon is-medium">
-        <i class="fab fa-github"></i>
-            </span>
-                        <span>Download</span>
-                    </button>
-                </div>
-            </div>
+        <div>&nbsp;</div>
+        <div class="subtitle">
+          Comprised of two components, the <b>Vuforia Spatial Toolbox application</b> and the <b>Vuforia Spatial Edge Server</b>, the system enables spatial interaction with and programming of the world of interconnected things around you.
         </div>
     </div>
 </section>
 <section class="section">
     <div class="container">
-        <h1 class="title header-home">What do I use <span class="highlight">Vuforia Spatial Toolbox</span> for?</h1>
+        <h1 class="title header-home">How do I use it?</h1>
         <div class="columns is-centered is-multiline">
             <div class="column is-one-third">
                 <figure class="image is-5by3">
@@ -119,6 +85,57 @@ permalink: /
                 </div>
             </div>
         </div>
+    </div>
+</section>
+<section class="section is-small">
+    <div class="container">
+        <div class="columns is-vcentered is-multiline">
+            <div class="column">
+                <div class=" subtitle">Adapting to the COVID-19 home office, we created a basic hardware interface
+                    addon. It allows you to connect the Vuforia Edge Server with your Arduino project, your children's
+                    Lego Boost and Lego Wedo 2.0 set, and the Philips Hue lighting system in your living room.
+                </div>
+            </div>
+            <div class="column is-one-quarter is-vcentered ">
+                <div class="buttons is-pulled-right is-vcentered ">
+                    <button class="button  is-outlined  is-medium  is-pulled-right is-dark"
+                            onclick="location.href='https://github.com/ptcrealitylab/vuforia-spatial-basic-interfaces-addon';"><span
+                            class="icon is-medium">
+        <i class="fab fa-github"></i>
+            </span>
+                        <span>Download</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <h1 class="title header-home">What do I use it for?</h1>
+        <div class="columns is-centered is-multiline ">
+            <div class="column is-one-third is-centered">
+                <p><img src="resources/distance.gif" alt="Spatial Tools"/></p>
+                <div class="subtitle">Generate Spatial Tools</div>
+            </div>
+            <div class="column is-one-third is-centered">
+                <p><img src="resources/vst.gif" alt="Spatial Programming"/></p>
+                <div class="subtitle">Program Physical Machines Spatially</div>
+            </div>
+            <div class="column is-one-third is-centered">
+                <p><img src="resources/mir.gif" alt="Spatial Robotic UI"/></p>
+                <div class="subtitle">Build Spatial Robotic UIs</div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        &nbsp;
+    </div>
+    <div class="container">
+        &nbsp;
+    </div>
+    <div class="container">
+        &nbsp;
     </div>
 </section>
 <section class="section is-small">
