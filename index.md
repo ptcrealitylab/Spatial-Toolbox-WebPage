@@ -13,11 +13,10 @@ permalink: /
                 </div>
             </div>
             <div class="column is-one-third is-vcentered ">
-                <div class="buttons is-center is-vcentered ">
+                <div class="buttons is-pulled-right is-vcentered ">
                     <div class="button is-outlined is-medium is-dark"
                             onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">Download
-                    </div>
-                    <div class="button  is-outlined  is-medium  is-dark"
+                    </div><div class="button  is-outlined  is-medium  is-dark"
                             onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">Get Started
                     </div>
                 </div>
@@ -40,14 +39,11 @@ permalink: /
             </div>
         </div>
     </div>
-    <div class="container">
-        &nbsp;
+    <div class="container">&nbsp;
     </div>
-    <div class="container">
-        &nbsp;
+    <div class="container">&nbsp;
     </div>
-    <div class="container">
-        &nbsp;
+    <div class="container">&nbsp;
     </div>
     <div class="container">
         <h1 class="title header-home">What is Vuforia Spatial Toolbox?</h1>
