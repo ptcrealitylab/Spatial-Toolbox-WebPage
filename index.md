@@ -15,20 +15,16 @@ permalink: /
             <div class="column is-one-third is-vcentered ">
                 <div class="buttons is-center is-vcentered ">
                     <div class="button is-outlined is-medium is-dark"
-                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">
-                        Download
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">Download
                     </div>
                     <div class="button  is-outlined  is-medium  is-dark"
-                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">
-                        Get Started
+                            onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">Get Started
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-    <section class="section">
-    <div class="container">
+</div></section><section class="section">
+<div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
             <div class="column is-one-third is-vcentered is-centered">
                 <p><img src="resources/distance.gif" alt=""/></p>
