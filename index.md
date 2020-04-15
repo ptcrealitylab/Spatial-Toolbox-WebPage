@@ -16,7 +16,7 @@ permalink: /
                 <div class="buttons is-pulled-right is-vcentered ">
                     <div class="button is-outlined is-medium is-dark"
                             onclick="location.href='https://spatialtoolbox.vuforia.com/docs/download';">Download
-                    </div><div class="button  is-outlined  is-medium  is-dark"
+                    </div><div class="button  is-outlined is-pulled-right is-medium  is-dark"
                             onclick="location.href='https://spatialtoolbox.vuforia.com/docs/use';">Get Started
                     </div>
                 </div>
