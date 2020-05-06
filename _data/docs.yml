@@ -86,6 +86,8 @@
           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/README
         - title: Using the Motion Tool
           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/tools/motion/motionTool
+        - title: Lego Boost Kinetic AR Prototyping
+          url: /docs/vuforia-spatial-robotic-addon/interfaces/lego-boost/README
 - title: Dive Deeper
   url: /docs/dive-deeper
   sublinks:
