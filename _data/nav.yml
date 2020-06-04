@@ -89,7 +89,7 @@
     - title: Robotic Add-on
       url: /docs/vuforia-spatial-robotic-addon
       sublinks:
-        - title: KineticAR Prototyping
+        - title: MIR100 Kinetic AR Prototyping
           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/README
         - title: Using the Motion Tool
           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/tools/motion/motionTool
