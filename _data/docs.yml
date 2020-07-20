@@ -72,6 +72,8 @@
       url: /docs/tutorials/context-dependent-tools
     - title: Creating 3D Tools with Three.js
       url: /docs/tutorials/three-js-tool-tutorial
+    - title: Creating 3D Tools with A-Frame
+      url: /docs/tutorials/aframe-tool-tutorial
     - title: Creating Envelope Tools - Part 1
       url: /docs/tutorials/envelope-tool-tutorial-part-1
     - title: Creating a New Hardware Interface
