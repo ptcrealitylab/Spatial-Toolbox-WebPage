@@ -37,6 +37,8 @@
           url: /docs/use/connect-to-the-physical-world/install-on-mac
         - title: Install on Windows
           url: /docs/use/connect-to-the-physical-world/install-on-windows
+        - title: Install on Raspberry Pi
+          url: /docs/vuforia-spatial-edge-server/raspberry-pi
         - title: Web Interface Manager
           url: /docs/use/connect-to-the-physical-world/web-interface-manager
         - title: How to Create an Object
