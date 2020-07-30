@@ -1,10 +1,10 @@
 const headings = document.body.querySelectorAll('h1,h2');
 
 const sidebar = document.createElement('aside');
-sidebar.classList.add('menu');
+sidebar.classList.add('menu', 'menu-sidebar-101');
 
 const list = document.createElement('ul');
-list.classList.add('menu-list');
+list.classList.add('menu-list', 'menu-list-101');
 
 const links = [];
 
@@ -16,6 +16,7 @@ for (const heading of headings) {
   const link = document.createElement('a');
   link.href = '#' + heading.id;
   link.textContent = heading.textContent;
+  link.classList.add('menu-link-101');
   elt.appendChild(link);
   list.appendChild(elt);
 
