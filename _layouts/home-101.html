@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <div class="column">
+  <!--
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  -->
+
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="post-content e-content center" itemprop="articleBody">
+      {{ content }}
+    </div>
+  </article>
+  </div>
+
+  <div class="column is-narrow" id="sidebar-container">
+  </div>
+
+  <script src="/assets/sidebar-101.js"></script>
+</div>
