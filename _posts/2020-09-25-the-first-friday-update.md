@@ -18,7 +18,7 @@ it!
 
 We've started development on an Android port of the Spatial Toolbox app!
 There's still a ton of testing to be done but if you want to try it out for
-yourself check out the link below:
+yourself check out this link:
 [Initial Pre-Alpha Release](https://github.com/hobinjk-ptc/RealityEditorCordova/releases/tag/v0.0.1)
 
 ### iOS 14 Update
