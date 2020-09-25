@@ -1,10 +1,10 @@
 # - title: About
 # url: /about
-# - title: Blog
-# url: /
 - title: Forum
   url: https://forum.spatialtoolbox.vuforia.com/
   absolute: true
+- title: Blog
+  url: /blog
 - title: Software
   url: /docs/download
   sublinks:
